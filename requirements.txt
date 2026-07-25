@@ -1,0 +1,11 @@
+# coastal-waste-3d — Python dependencies
+# Torch CUDA 11.8 : installer via l'index PyTorch (voir README, étape 2).
+numpy==1.26.4
+opencv-python
+scipy
+scikit-learn
+open3d==0.18.0
+ultralytics
+segment-anything
+# torch==2.1.2+cu118 et torchvision : voir README (index-url spécifique)
+# MASt3R : dépôt cloné dans ./data/mast3r (+ son requirements.txt)
